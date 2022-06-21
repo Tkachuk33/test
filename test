@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="Test.css" rel="stylesheet" type="text/css">
+    <title>Test</title>
+</head>
+<body>
+    <div class="block">
+        <div class="photo"> <img src="img.jpg" alt="photo" title="HTML5">
+        </div>
+        
+        <div class="super"> <b>Суперціна</b> 
+        </div>
+        <div class="check"> <strong><u>1 500$</u></strong>
+        </div>
+        <div class="super1"> <s> 1 800$ </s> </div>
+        <button class="click"><b>Купить</b></button>
+    </div>
+</body>
+</html>
