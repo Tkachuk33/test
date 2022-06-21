@@ -1,0 +1,38 @@
+.block {
+    background-color: rgb(245, 243, 243);
+    width: 300px;
+    height: 500px;
+}
+.photo {
+    padding-left: 35px;
+    padding-top: 30px;
+}
+.super {
+    background-color: rgb(37, 200, 37);
+    color: white;
+    width: 100px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 35px;
+    padding: 5px 5px;
+}
+.check {
+    padding-left: 35px;
+    padding-top: 10px;
+    color: red;
+    font-size:larger;
+}
+.super1 {
+    padding-left: 35px;
+    padding-top: 5px;
+}
+.click {
+    border: 1px solid white;
+    color: blue;
+    width: 150px;
+    height: 40px;
+    margin-left: 35px;
+    margin-top: 15px;
+    background: rgb(255,0,0);
+    background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(255,213,0,1) 35%, rgba(220,255,0,1) 100%);
+}
